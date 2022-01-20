@@ -1,0 +1,5 @@
+UPDATE `employees`
+SET `salary` = `salary` * 1.1
+WHERE `id`;
+
+SELECT `salary` FROM `employees`;
