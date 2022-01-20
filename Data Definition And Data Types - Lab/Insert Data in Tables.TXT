@@ -1,0 +1,8 @@
+INSERT INTO `employees` 
+VALUES
+(1, 'Petur', 'Petrov'),
+(2, 'Ivan', 'Ivanov');
+
+INSERT INTO `employees`
+ VALUES 
+ ('3', 'Teodor', 'Georgiev');
